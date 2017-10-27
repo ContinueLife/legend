@@ -173,7 +173,7 @@ section {
 .enter {
 	position: absolute;
 	left: 50%;
-	margin-left: -98px;
+	margin-left: -60px;
 	bottom: 15%;
 	background:#c00;
 	-webkit-border-radius: 6px;
