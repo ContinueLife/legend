@@ -172,8 +172,8 @@ section {
 
 .enter {
 	position: absolute;
-	left: 50%;
-	margin-left: -61px;
+	left: 42%;
+
 	bottom: 15%;
 	background:#c00;
 	-webkit-border-radius: 6px;
