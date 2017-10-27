@@ -179,16 +179,16 @@
             d.sumDesc.html("你一共答对了" + d.sum + "题。" + d.comments[d.level]);
             switch (d.level) {
                 case 0:
-                    document.title = "你获得“学渣”称号，你的语文是体育老师教的吗？";
+                    document.title = "恭喜你获得“少先队员”的称号，鲜艳的红领巾飘扬在前胸，你是共产主义的接班人 ";
                     break;
                 case 1:
-                    document.title = "你获得“普通学生”称号，对得起爹妈交的学费吗！";
+                    document.title = "恭喜你获得“共青团员”的称号，你是五月的花海，用青春拥抱时代！";
                     break;
                 case 2:
-                    document.title = "你获得“学霸”称号，不过离三道杠的水平有点远~";
+                    document.title = "恭喜你获得“共产党员”的称号，前进在灿烂阳光下，胜利歌声多么嘹亮 ";
                     break;
                 case 3:
-                    document.title = "你获得“学神”称号，小时候一定吃了很多辣条吧！";
+                    document.title = "恭喜你获得“人大代表”的称号，为建设富强、民主、文明、和谐的社会主义国家努力奋斗！，";
                     break
             }
 
